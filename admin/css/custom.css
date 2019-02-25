@@ -1,0 +1,145 @@
+/* your styles go here */
+.filter {
+    margin-right: 20px;
+    margin-top: 10px
+}
+
+.garis {
+    border-bottom: 2px solid rgb(0, 0, 0)
+}
+
+.garis-grey {
+    border-bottom: 1px solid grey
+}
+
+.nota {
+    margin-right: 127px;
+    margin-top: 10px
+}
+
+.nama-pelanggan {
+    margin-right: 35px;
+    margin-top: 10px
+}
+
+.ukuran-dg {
+    width: 10rem
+}
+
+.batas-dg {
+    margin-top: 40px
+}
+
+.rata-kanan {
+    margin-left: 350px
+}
+
+.geser {
+    margin-left: 100px
+}
+
+.geser1 {
+    margin-left: 840px
+}
+
+.geser2 {
+    margin-left: 800px
+}
+
+.geser3 {
+    margin-left: 104px
+}
+
+.geser4 {
+    margin-left: 684px
+}
+
+.geser5 {
+    margin-left: 663px
+}
+
+.body-up {
+    margin-top: 104px
+}
+
+.geser6 {
+    margin-left: 630px
+}
+
+.geser7 {
+    margin-left: 96px
+}
+
+.geser8 {
+    margin-left: 118px
+}
+
+.tata-nama {
+    margin-right: 46px;
+    margin-top: 10px;
+}
+
+.tata-jenis {
+    margin-right: 49px;
+    margin-top: 10px
+}
+
+.tata-opsi {
+    margin-right: 56px;
+    margin-top: 10px
+}
+
+.tata-harga {
+    margin-right: 40px;
+    margin-top: 10px
+}
+
+.tata-berat {
+    margin-right: 44px;
+    margin-top: 10px
+}
+
+.tata-diskon {
+    margin-right: 45px;
+    margin-top: 10px
+}
+
+.tata-stok {
+    margin-right: 39px;
+    margin-top: 10px
+}
+
+.tata-desk {
+    margin-right: 20px;
+    margin-top: 10px
+}
+
+.tata-gbr {
+    margin-right: 37px;
+    margin-top: 10px
+}
+
+.button-simpan {
+    padding-left: 136px;
+    margin-top: 10px
+}
+
+.atur-isi {
+    margin-right: 52px;
+    margin-top: 10px
+}
+
+.atur-isi1 {
+    margin-right: 42px;
+    margin-top: 10px
+}
+
+.atur-isi2 {
+    margin-right: 20px;
+    margin-top: 10px
+}
+
+.simpan-ea {
+    padding-left: 116px;
+    margin-top: 10px
+}

@@ -1,0 +1,44 @@
+.jumbotron .container {
+	background-color: #6c757d;
+}
+.container .col-sm-10 h4 {
+	color: #fff;
+}
+.card {
+	height: 155px; 
+	width: 150px; 
+	margin-left: 30px;
+} 
+.container .col-md img {
+	height: 123px; 
+	width: 145px;
+}
+.col-sm-8 {
+	 height: 155px; 
+	 background: #fff; 
+	 text-align: justify; 
+	 margin-right: 165px;
+}
+.container .col-sm-8 h5 {
+	float: right;
+	color: #6c757d;
+}
+.row mt-4 .col-md card {
+	height: 123px; 
+	width: 145px;
+}
+.container .row mt-4 {
+	background: #fff;
+}
+.container h5 {
+	color: #fff;
+	margin-left: 50px;
+}
+.container .col-sm-10 {
+	margin-left: 35px;
+	background: #6c757d;
+	height: 100px;
+}
+.container .col-sm-10 h5 {
+	float: right;
+}
